@@ -18,9 +18,9 @@ El método consiste en linealizar la función por la recta tangente en el punto 
 
  - Abrir el directorio donde se encuentra el repositorio descargado previamente desde la terminal. 
 
- - Ejecutar el archivo metodoNewtonRaphson.py con el siguiente comando:
+ - Ejecutar el archivo metodoNewtonRaphson_Drube-Tadeo.py con el siguiente comando:
 ```
-    python3 metodoNewtonRaphson.py
+    python3 metodoNewtonRaphson_Drube-Tadeo.py
 ```
  - Seguir los pasos indicados durante la ejecución.
 
